@@ -1,0 +1,36 @@
+.main {
+    border: 2px solid #a9a9a9;
+    padding: 10px;
+    background-color: #a8a8a8;
+}
+
+div {
+    border:1px solid black;
+}
+
+.padded-div {
+    padding: 10px;
+    border-color: lightyellow;
+    background-color: lightgreen;
+    color: blue;
+}
+
+.margin-parent,
+.both-parent {
+    border-color: transparent;
+    background-color: yellow;
+    margin: 5px 0;
+}
+
+.margin-div {
+    margin: 10px ;
+    background-color: blue;
+}
+
+
+.both {
+    margin: 5px 20px;
+    padding: 5px 20px;
+    background-color: lightgreen;
+    color: blue;
+}
